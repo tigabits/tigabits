@@ -112,7 +112,7 @@ The most reliable and fast-growing web and Mobile app development company in Ind
 
 <br/>  
 
-<div align="center"><img style="width:40%" src="https://raw.githubusercontent.com/tigabits/tigabits/main/Images/tigabits%20tech%20logo.jpg" /></div>  
+<div align="center"><img style="width:30%" src="https://raw.githubusercontent.com/tigabits/tigabits/main/Images/tigabits%20tech%20logo.jpg" /></div>  
 
 <br/>  
 
