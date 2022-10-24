@@ -115,7 +115,7 @@ The most reliable and fast-growing web and Mobile app development company in Ind
 
 <br/>  
 
-<div align="center"><img src="[https://tigabits.com](https://tigabits.com/images/web_logo.webp)" /></div>  
+<div align="center"><img src="https://tigabits.com/images/web_logo.webp" /></div>  
 
 <br/>  
 
