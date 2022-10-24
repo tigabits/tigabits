@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">Take Your Business to the next level With Our web and Mobile App Development Services
-The most reliable and fast-growing web and Mobile app development company in India and UAE. 👨‍💻 working 2018 🚀</div>  
+###Take Your Business to the next level With Our web and Mobile App Development Services
+The most reliable and fast-growing web and Mobile app development company in India and UAE. 👨‍💻 Since 2018 🚀  
   
 
 - 🔭We are currently working on [Robust Faster Customized Solutions](https://tigabits.com/home)  
