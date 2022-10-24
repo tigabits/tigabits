@@ -25,7 +25,7 @@ The most reliable and fast-growing web and Mobile app development company in Ind
 <br/>  
 
 
-## My Skill Set  
+## Our Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -84,7 +84,7 @@ The most reliable and fast-growing web and Mobile app development company in Ind
 <br/>  
 
 
-## Connect with me  
+## Connect US  
 <div align="center">
 <a href="https://github.com/tigabits" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -138,4 +138,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
